@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @luisfelipelino
+- 👋 Hi, I’m @luisfelipelino. I'm a full-stack developer and WordPress enthusiast.
 - 👀 I’m interested in Web Design, UI/UX design, PHP, JS, and WordPress development. Besides that, I love to practice sports, play video games and drink beer.
-- 🌱 I’m always learning some PHP and JS because it pays my bills. But I started learning flutter too.
+- 🌱 I’m always learning some PHP and JS. Because I love it, and it pays my bills. Now I'm learning C++ too. At baby steps, but learning.
 - 📫 You can reach me at luisfelipelino@gmail.com or at https://www.linkedin.com/in/luisfelipelino.
  
 <!---
